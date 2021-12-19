@@ -6,4 +6,5 @@
 - useChain
 - useTrail
 - useTransition
+  <br />
   에 대하여 애니메이션 예시와 코드를 화면에 보여주며 설명
